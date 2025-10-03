@@ -6,10 +6,16 @@
 
 ### 専門学校 IT カレッジ沖縄 IT スペシャリスト科 情報工学コース 2 年 27 卒予定
 
+### 経験
+
 - 1 年次は python,java,HTML を学習
 - 2 年次は Kotlin,TypeScript,JavaScript を学習
 - 普段は ubuntu を利用
 - オープンキャンパスでのスタッフをしています
+
+### 趣味
+
+#### 最近は Web サイトでホラー小説を読んだり,映画を見に行くことが多いです。
 
 <!--
 **itc-s24013/itc-s24013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
