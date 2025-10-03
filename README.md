@@ -15,7 +15,9 @@
 
 ### 趣味
 
-#### 最近は Web サイトでホラー小説を読んだり,映画を見に行くことが多いです。
+- Web サイトでホラー小説を読む
+- 映画を見る
+- 猫カフェに行く
 
 <!--
 **itc-s24013/itc-s24013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
