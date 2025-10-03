@@ -22,6 +22,13 @@
 ### 作品リスト
 
 - [Hit&Brow](https://github.com/itc-s24013/java_backUpPart2/tree/main/src/kadai_version2/kadai)
+  - Java を使用
+  - クラスの関係性をシンプルにするのに苦労した
+  - ゲームの概要
+    - 0~9 の間でランダムで生成された 4 桁の数字を当てるゲーム(数字の被りは無し)
+    - プレイヤーは１人でも複数でも可
+    - 数字だけ当てると Brow,数字の場所まで当てると Hit
+
 <!--
 **itc-s24013/itc-s24013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
