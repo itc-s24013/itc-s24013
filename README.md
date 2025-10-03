@@ -1,5 +1,11 @@
-## Hi there 👋
-# はじめまして
+# こんにちは 👋
+
+## 呉屋美旺
+
+### 2006/02/18 生
+
+### 専門学校 IT カレッジ沖縄 IT スペシャリスト科 情報工学コース 2 年 27 卒予定
+
 <!--
 **itc-s24013/itc-s24013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
