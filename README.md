@@ -19,6 +19,9 @@
 - 映画を見る
 - 猫カフェに行く
 
+### 作品リスト
+
+- [Hit&Brow](https://github.com/itc-s24013/java_backUpPart2/tree/main/src/kadai_version2/kadai)
 <!--
 **itc-s24013/itc-s24013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,4 +35,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
