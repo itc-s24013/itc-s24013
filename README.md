@@ -28,6 +28,7 @@
     - 0~9 の間でランダムで生成された 4 桁の数字を当てるゲーム(数字の被りは無し)
     - プレイヤーは１人でも複数でも可
     - 数字だけ当てると Brow,数字の場所まで当てると Hit
+    - Hit が 4 になればクリア
 
 <!--
 **itc-s24013/itc-s24013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
