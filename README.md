@@ -19,6 +19,14 @@
 - 映画を見る
 - 猫カフェに行く
 
+### 技術スタック
+
+- HTML/CSS
+- Next.js
+- java
+- Kotlin
+- SQL
+
 ### 作品リスト
 
 - [Hit&Brow](https://github.com/itc-s24013/java_backUpPart2/tree/main/src/kadai_version2/kadai)
@@ -29,6 +37,7 @@
     - プレイヤーは１人でも複数でも可
     - 数字だけ当てると Brow,数字の場所まで当てると Hit
     - Hit が 4 になればクリア
+    - コマンドライン上での実行が可能
 
 <!--
 **itc-s24013/itc-s24013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
