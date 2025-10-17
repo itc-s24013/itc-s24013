@@ -21,11 +21,13 @@
 
 ### 技術スタック
 
-- HTML/CSS
+- HTML/CSS-自己紹介のサイトを作成
 - Next.js
-- java
+- Java-コマンドライン上で動くプログラムを作成※下記参照
 - Kotlin
 - SQL
+- ubuntu-日常的に使用
+- Python
 
 ### 作品リスト
 
