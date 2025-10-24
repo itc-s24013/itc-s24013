@@ -31,7 +31,7 @@
 
 ### 作品リスト
 
-- [Hit&Brow](https://github.com/itc-s24013/java_backUpPart2/tree/main/src/kadai_version2/kadai)
+- [Hit&Brow](https://github.com/itc-s24013/HitBrow)
   - Java を使用
   - クラスの関係性をシンプルにするのに苦労した
   - ゲームの概要
