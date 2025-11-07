@@ -40,6 +40,24 @@
     - 数字だけ当てると Blow,数字の場所まで当てると Hit
     - Hit が 4 になればクリア
     - コマンドライン上での実行が可能
+- Stamprally
+  - [GitHub](https://github.com/itc-s24013/StampRally)
+  - [Vercel](https://stamp-rally-nu.vercel.app/)
+  - 使用技術
+    - TypeScript
+    - BootStrap
+    - Supabase
+    - postgreSQL
+    - GoogleAuth
+  - 使用 AI
+    - claude
+    - chatGPT
+    - Gemini
+    - GitCopilot
+  - Web サイト
+  - Google アカウントでログイン
+  - 各階数に設置されたパスワードを入力して学校の先生に関するクイズを解く
+  - クイズを解いたら問題一覧での表示に色がつく
 
 <!--
 **itc-s24013/itc-s24013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
