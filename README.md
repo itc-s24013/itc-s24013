@@ -19,11 +19,19 @@
 - 映画を見る
 - 猫カフェに行く
 
+### 資格
+
+- SEA/J 情報セキュリティ技術認定基礎コース CSBM
+- CompTIA IT Fundamentals
+- インターネット検定 .com Master BASIC
+- LinuC レベル 1 101 試験　※LinuC レベル 1 102 試験は現在勉強中です
+- 実践プログラミング技術者試験 Python 部門 Gold
+
 ### 技術スタック
 
 - HTML/CSS-自己紹介のサイトを作成
 - Next.js
-- Java-コマンドライン上で動くプログラムを作成※下記参照
+- Java-コマンドライン上で動くプログラムを作成　※下記参照
 - Kotlin
 - SQL
 - ubuntu-日常的に使用
@@ -40,7 +48,7 @@
     - 数字だけ当てると Blow,数字の場所まで当てると Hit
     - Hit が 4 になればクリア
     - コマンドライン上での実行が可能
-- Stamprally
+- StampRally
   - [GitHub](https://github.com/itc-s24013/StampRally)
   - [Vercel](https://stamp-rally-nu.vercel.app/)
   - 使用技術
@@ -58,6 +66,7 @@
   - Google アカウントでログイン
   - 各階数に設置されたパスワードを入力して学校の先生に関するクイズを解く
   - クイズを解いたら問題一覧での表示に色がつく
+  - 今現在 Supabase の有効期限が切れているので利用できません
 
 <!--
 **itc-s24013/itc-s24013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
