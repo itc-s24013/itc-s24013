@@ -39,7 +39,8 @@
 
 ### 作品リスト
 
-- [Hit&Blow](https://github.com/itc-s24013/HitBrow)
+- Hit&Blow
+  - [GitHub](https://github.com/itc-s24013/HitBlow)
   - Java を使用
   - クラスの関係性をシンプルにするのに苦労した
   - ゲームの概要
@@ -49,6 +50,7 @@
     - Hit が 4 になればクリア
     - コマンドライン上での実行が可能
 - StampRally
+
   - [GitHub](https://github.com/itc-s24013/StampRally)
   - [Vercel](https://stamp-rally-nu.vercel.app/)
   - 使用技術
@@ -67,6 +69,57 @@
   - 各階数に設置されたパスワードを入力して学校の先生に関するクイズを解く
   - クイズを解いたら問題一覧での表示に色がつく
   - 今現在 Supabase の有効期限が切れているので利用できません
+
+- カフェこもれびのホームページ
+
+  - [GitHub](https://github.com/itc-s24013/NextjsKadai)
+  - [Vercel](nextjs-kadai-seven.vercel.app)
+  - 使用技術
+
+    - microCMS
+    - Next.js
+    - BootStrap
+    - GoogleFont(yusei-magic-regular)
+    - ChatGPT,Gemini(画像生成)
+
+  - microCMS に作成したデータ
+
+    - menu
+    - name(メニュー名): テキストフィールド
+    - taste(味)?: 複数コンテンツ参照-味
+    - image(画像)?: 画像
+    - description(説明)?: テキストエリア
+    - amount(値段): 数字
+
+  - taste
+
+    - flavor(味): テキストフィールド
+
+  - 機能
+
+    - メニュー一覧表示
+    - メニュー詳細表示
+    - メニュー検索
+
+  - ディレクトリ構造
+  - app
+
+    - ホーム画面(page.tsx,page.module.css)
+
+  - app/\_components
+
+    - Header
+    - メニュー詳細画面での画像(MenuImage)
+    - メニュー一覧表示(MenuList)
+    - メニュー検索機能(Search)
+
+  - app/\_libs
+
+    - microCMS からデータをとってくる(microcms.ts)
+
+  - app/[menu]/
+    - メニュー詳細画面(page.tsx,page.module.css)
+    - 検索結果(search/page.tsx)
 
 <!--
 **itc-s24013/itc-s24013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
