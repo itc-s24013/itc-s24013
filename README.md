@@ -104,3 +104,20 @@
 
   - ディレクトリ構造
   - ![ディレクトリ構造](https://github.com/user-attachments/assets/039de470-1465-4005-a7c1-0159c2535ace)
+
+- BookManager
+  - [GitHub](https://github.com/itc-s24013/WebBackEndKadai)
+  - 使用技術
+    - TypeScript
+    - Express
+    - passport
+    - mariadb
+    - Adminer
+    - Prisma
+  - 概要
+    - バックエンドのみ
+    - rest-api.http で動かすことができる。
+    - 権限が admin だったら著者、出版社、本の操作(削除、更新、新規登録)ができる。
+    - delete の処理はデータベースから削除するのではなく is_deleted(削除フラグ)を true にする。
+    - 本作は課題で作成したものであり、先生が定義した仕様書に従って作成しました。
+    - 主に(book-manager/src/routes/\*)を作成しました。
