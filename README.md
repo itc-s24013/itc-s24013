@@ -117,5 +117,18 @@
     - 本作は課題で作成したものであり、先生が定義した仕様書に従って作成しました。
     - 主に(book-manager/src/routes/\*)を作成しました。
 
-- Questa
-- [GitHub](https://github.com/itc-s24013/Questa/tree/main)
+- Questa(製作中)
+  - [GitHub](https://github.com/itc-s24013/Questa/tree/main)
+  - 使用技術
+    - TypeScript
+    - Express
+    - Supabase
+    - Supabase Auth
+    - Prisma
+    - render(予定)
+  - 概要
+    - 就活生向けのSPI練習用Webサイト
+    - メールアドレス・パスワード・ニックネームでユーザ登録
+    - ログインはメールアドレス・パスワード
+    - 主に(Questa/src/routes/\*)を作成しました。
+    - 本作は進級制作により作成しており企画から開発まで3人で行っております。
