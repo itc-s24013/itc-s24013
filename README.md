@@ -118,7 +118,8 @@
     - 主に(book-manager/src/routes/\*)を作成しました。
 
 - Questa(製作中)
-  - [GitHub](https://github.com/itc-s24013/Questa/tree/main)
+  - [バックエンドのGitHub](https://github.com/itc-s24013/Questa/tree/main)
+  - [フロントエンドのGitHub](https://github.com/itc-s24006/Questa_front)
   - [Render](https://questa-86le.onrender.com/)
   - [Vercel](https://questa-front.vercel.app/)
   - 使用技術
@@ -126,8 +127,10 @@
     - Express
     - Supabase
     - Supabase Auth
+    - Supabase Storage
     - Prisma
-    - render(予定)
+    - render
+    - Vercel
   - 概要
     - 就活生向けのSPI練習用Webサイト
     - メールアドレス・パスワード・ニックネームでユーザ登録
